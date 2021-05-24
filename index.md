@@ -1,8 +1,24 @@
-## Welcome to GitHub Pages
+## Critically exploring the use of Virtual Reality in a learning enviroment
+
+My name is Caleb, I am a year 13 at Greymouth highschool and I am working on a program in my Game Design class to create a VR station for use in Primary schools. The VR station will be a carry case which will carry the VR headset and the PC my class built last year. By taking our project to primary schools we will be allowing younger kids to get acquainted with VR and the video games on it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/CalebWanstall/GHS-VR-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
